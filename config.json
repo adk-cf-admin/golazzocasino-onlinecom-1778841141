@@ -59,11 +59,11 @@
     },
     "pages": [
         {
-            "id": "en-uk-en-UK",
+            "id": "en-gb-en-GB",
             "path": "\/",
             "name": "Английский",
             "languageCode": "en",
-            "regionCode": "UK",
+            "regionCode": "GB",
             "isDefault": true,
             "sections": {
                 "seo": {
